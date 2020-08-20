@@ -25,6 +25,7 @@
 		79D9C34F24EE7C3E00B814B1 /* StyleWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D9C34724EE7C3E00B814B1 /* StyleWrapper.swift */; };
 		79D9C35124EE7EBB00B814B1 /* UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D9C35024EE7EBB00B814B1 /* UITextField.swift */; };
 		79D9C35324EE8D8100B814B1 /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79D9C35224EE8D8100B814B1 /* UIViewController.swift */; };
+		79D9C35624EE9DFB00B814B1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 79D9C35524EE9DFB00B814B1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,7 +51,7 @@
 		79D9C34724EE7C3E00B814B1 /* StyleWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleWrapper.swift; sourceTree = "<group>"; };
 		79D9C35024EE7EBB00B814B1 /* UITextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextField.swift; sourceTree = "<group>"; };
 		79D9C35224EE8D8100B814B1 /* UIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
-		79D9C35424EE9AD200B814B1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		79D9C35524EE9DFB00B814B1 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BC98C43BFF4EA282B48D2E55 /* Pods-Shopping Basket.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Shopping Basket.debug.xcconfig"; path = "Target Support Files/Pods-Shopping Basket/Pods-Shopping Basket.debug.xcconfig"; sourceTree = "<group>"; };
 		F2B99AD3763E36B96D4CDB34 /* Pods-Shopping Basket.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Shopping Basket.release.xcconfig"; path = "Target Support Files/Pods-Shopping Basket/Pods-Shopping Basket.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,6 +71,7 @@
 		799004F624ED10DF003A710F = {
 			isa = PBXGroup;
 			children = (
+				79D9C35524EE9DFB00B814B1 /* README.md */,
 				7990050124ED10DF003A710F /* Shopping Basket */,
 				7990050024ED10DF003A710F /* Products */,
 				FAC0255212FEB041D3D99152 /* Pods */,
@@ -98,7 +100,6 @@
 				7990050B24ED10E3003A710F /* Assets.xcassets */,
 				7990050D24ED10E3003A710F /* LaunchScreen.storyboard */,
 				7990051024ED10E3003A710F /* Info.plist */,
-				79D9C35424EE9AD200B814B1 /* README.md */,
 			);
 			path = "Shopping Basket";
 			sourceTree = "<group>";
@@ -224,6 +225,7 @@
 			files = (
 				7990050F24ED10E3003A710F /* LaunchScreen.storyboard in Resources */,
 				7990050C24ED10E3003A710F /* Assets.xcassets in Resources */,
+				79D9C35624EE9DFB00B814B1 /* README.md in Resources */,
 				7990050A24ED10DF003A710F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
