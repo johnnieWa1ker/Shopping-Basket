@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManager (6.5.6)
+  - QuickLayout (3.0.0)
+  - SwiftEntryKit (1.2.3):
+    - QuickLayout (= 3.0.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - SwiftEntryKit
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+    - QuickLayout
+    - SwiftEntryKit
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  SwiftEntryKit: 340713c2e4a6662c5149629990bf1088bf5f0389
+
+PODFILE CHECKSUM: a69d793c89c02b79044b0286c582eb52fcec32c9
+
+COCOAPODS: 1.9.3
