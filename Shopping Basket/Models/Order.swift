@@ -30,7 +30,7 @@ class Order {
     }
 
     /// Посчитать заказ и подготовить к отправке
-    func make() -> [[String: Int]] {
+    public func make() -> [[String: Int]] {
         let uniqIds = Set(self.items.map({$0.itemId}))
         
         var result: [[String: Int]] = []
